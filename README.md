@@ -1,3 +1,66 @@
+# React First App
+
+## 🇹🇷 Proje Açıklaması (Turkish)
+
+Bu proje, React.js framework'ü kullanılarak geliştirilmiş basit bir blog sayfasıdır. Amaç, React ile frontend geliştirme süreçlerini deneyimlemek ve bu teknoloji üzerinde neler yapılabileceğini keşfetmektir.
+
+### 🎯 Proje Amacı
+
+React.js, modern, yeniden kullanılabilir bileşenler geliştirmeyi sağlayan popüler bir JavaScript kütüphanesidir. Bu proje, React ekosistemine giriş yapmak ve temel yapı taşlarını öğrenmek amacıyla geliştirilmiştir.
+
+Deneysel bir çalışmadır ve ufkumu genişletmek, React ile neler yapılabileceğini görmek için hazırlanmıştır.
+
+### 🛠️ Özellikler
+
+- Basit blog arayüzü
+- React bileşen yapısı kullanımı
+- Listeleme ve içerik görüntüleme
+- Başlangıç seviyesinde proje yapısı
+
+### 🚀 Kullanılan Teknolojiler
+
+- React.js
+- HTML & CSS
+- JavaScript (ES6+)
+
+### 📦 Kurulum ve Çalıştırma
+
+1. Bu repoyu klonlayın:
+   ```bash
+   git clone https://github.com/Akinincecik/React-first-app.git
+-----------------------------------------------------------------------------------------------------
+# React First App
+
+## 🇬🇧 Project Description (English)
+
+This project is a simple blog page developed using the React.js framework. The goal is to experiment with frontend development processes using React and explore what can be done with this technology.
+
+### 🎯 Project Purpose
+
+React.js is a popular JavaScript library used to build modern, reusable components for user interfaces. This project was created to introduce the React ecosystem and learn its core building blocks.
+
+It is an experimental project aimed at broadening my perspective and seeing what can be achieved with React.
+
+### 🛠️ Features
+
+- Simple blog interface
+- Use of React component structure
+- Listing and viewing content
+- Beginner-level project setup
+
+### 🚀 Technologies Used
+
+- React.js
+- HTML & CSS
+- JavaScript (ES6+)
+
+### 📦 Installation and Setup
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/Akinincecik/React-first-app.git
+
+-----------------------------------------------------------------------------------------------------
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
